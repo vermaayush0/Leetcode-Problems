@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
@@ -32,4 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
