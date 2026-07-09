@@ -26,5 +26,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
