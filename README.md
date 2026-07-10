@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 ## Math
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0067-add-binary) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
