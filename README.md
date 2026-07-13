@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0067-add-binary) |
 ## Bit Manipulation
