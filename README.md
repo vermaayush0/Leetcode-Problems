@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 ## Math
 |  |
 | ------- |
