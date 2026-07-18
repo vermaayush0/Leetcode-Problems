@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0152-maximum-product-subarray](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 ## Recursion
 |  |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vermaayush0/Leetcode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
