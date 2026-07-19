@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vermaayush0/Leetcode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Divide and Conquer
 |  |
