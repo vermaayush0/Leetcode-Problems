@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0877-stone-game) |
+| [3904-smallest-stable-index-ii](https://github.com/vermaayush0/Leetcode-Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/vermaayush0/Leetcode-Problems/tree/master/0877-stone-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/vermaayush0/Leetcode-Problems/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
